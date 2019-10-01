@@ -9,7 +9,7 @@ age.times do
     puts "tu avais #{y += 1} ans"
     
     if age == y 
-        puts "Il y a" + age + "ans tu avais la moitié de l'âge que tu as aujourd'hui"
+        puts "Il y a #{age} ans tu avais la moitié de l'âge que tu as aujourd'hui"
     end
     
 end  
